@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const app = express();
 
-const PORT = 5000;
+const PORT = 3000;
 
 
 const URL='mongodb+srv://karthik53r:M9y354ZfNuHZhwT2@cluster0.i0f4cbd.mongodb.net/';
